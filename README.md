@@ -1,0 +1,2 @@
+# Java-Car-Trip
+This project implements the concepts of class composition and inheritance. Auto objects are created that are composed of a GasTank, an Engine, and other private instance variables (Engine and GasTank are separate class files). The user creates an Auto Object with customized car specs. The user is then prompted for trip data which is plotted on an x,y coordinate plane using JPanel and JFrames. A DrawPanel class inherits methods from the JPanel class to provide functionality specific to the car trip described by the user.
